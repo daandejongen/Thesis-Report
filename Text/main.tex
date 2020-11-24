@@ -1,0 +1,60 @@
+\documentclass{article}
+
+\title{Research Proposal}
+\author{Daan de Jong}
+\date{October 2020}
+
+\usepackage{setspace}\onehalfspacing
+\usepackage[a4paper]{geometry}
+\usepackage{graphicx}
+\usepackage{apacite}
+\graphicspath{ {./img/} }
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{natbib}
+\bibliographystyle{apalike}
+
+\usepackage{sectsty}
+\sectionfont{\large \centering}
+\subsectionfont{\small}
+\subsubsectionfont{\small}
+\paragraphfont{\large}
+
+\usepackage{fancyhdr}
+\fancyhead[L]{Research Report}
+\fancyfoot[L]{Daan de Jong}
+\fancyfoot[C]{Utrecht University}
+\fancyfoot[R]{\thepage}
+
+\begin{document}
+
+\input{title page}
+
+\pagestyle{fancy}
+
+\section{Introduction}
+Negation words are widely used in everyday language. For humans, it is important to process these negations correctly, because the meaning of a sentence can be highly affected by them. Luckily, our brains seem to perform the task effortlessly. Likewise, a goal within the field of Natural Language Processing (NLP) is to develop models that can effectively handle negations in natural language.
+
+\subsection{Negation Scope Detection}
+When dealing with negations, it is useful to make a distinction between the \textit{negation cue} and the \textit{negation scope} in a sentence. A negation cue is a word, a morpheme or a group of words that inherently expresses a negation, e.g., never, impossible, not at all. The negation scope is the part of the sentence that is affected by the negation cue. For example, in the sentence ``You're not invited'' the negation cue is ``not'' and the negation scope is ``You’re invited.'' The current proposal will focus on the detection of the negation \textit{scope}. 
+
+\section{Problem definition}
+The main goal of the current study is to expand the set of methods that can be used for negation scope detection for biomedical text data. Specifically, it is investigated whether a deep learning method can alleviate the problems related to existing methods. 
+
+\subsection{Existing research} \label{problems}
+Methods that are used to classify negation scopes can be divided into rule-based methods \citep[e.g.,][]{basile2012ugroningen} and machine learning methods \citep[e.g.,][]{fei2020negation}. Although these types of methods perform well, there are two shortcomings associated with them \cite{fancellu2016neural}. First, they are \textit{highly engineered}. That is, they demand much effort on the side of the researcher, who has to manually create features (independent variables) for the model to use. Second, the heuristic rules used by rule-based models are language-specific. So, most of these models are currently suitable for English text only.
+
+\subsection{Research aims and questions}
+There is need of an alternative approach that could overcome the issues raised above, by \textit{automatically} detecting the negation scope in a sentence. 
+
+\section{Methods}
+
+
+
+
+\section{Results}
+
+
+
+
+\section{Discussion}
