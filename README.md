@@ -6,7 +6,7 @@ Negation Scope Detection with a BiLSTM NN
 
 The Thesis-Report repository contains two folders: "Text" and "Data and code".
 
-### Text ###
+## Text
 img folder:
 	- Plaatjesmaker.ppt and Plaatjesmaker2.ppt were used to create model.png, model2.png and prediction types.png
 	- model.png is outdated
@@ -19,17 +19,17 @@ Draft 1 Report DDJ.pdf is the main draft which was feedbacked by Ayoub Bagheri a
 Research Report Daan de Jong.pdf is the final Report that was handed in
 main.bbl, main.blg, main.log, main.synctex.gz, textut.log, title page.log are byproducts of main.tex and title page.tex
 
-### Data and Code ###
-__pycache__ is a folder that contains byproducts of the .py files
-Original is a folder that contains all data used in this study
-	- freely downloadable from https://www.kaggle.com/ma7555/bioscope-corpus-negation-annotated
+## Data and Code
+- __pycache__ is a folder that contains byproducts of the .py files
+- Original is a folder that contains all data used in this study
+	- freely downloadable [here](https://www.kaggle.com/ma7555/bioscope-corpus-negation-annotated)
 	- the folder bioscope was not used
 	- bioscope_abstract.csv and bioscope_full.csv are the data files that were used in this study (by Preprocessing.py)
-All csv files here are rendered by Preprocessing.py, and are read in Model.py, except for E.csv (the word embeddings, from word2vec.py)
-CustomEmbedding.py defines a keras layer class, to be used in Model.py
-CustomLoss.py defines the loss function used in the study, used by Model.py
-CustomMetric.py defines the metrics used in the study, used by Model.py
-Data description table.py renders the information used in Table 1 of the Report
-Model.py defines, compiles, trains, tests and evaluates the model
-Preprocessing.py bridges the gap between the raw data csv files and the train and test data suited for the model
-word2vec.py is an implementation of the word2vec algorithm and renders E.csv, the word embeddings
+- All csv files here are rendered by Preprocessing.py, and are read in Model.py, except for E.csv (the word embeddings, from word2vec.py)
+- CustomEmbedding.py defines a keras layer class, to be used in Model.py
+- CustomLoss.py defines the loss function used in the study, used by Model.py
+- CustomMetric.py defines the metrics used in the study, used by Model.py
+- Data description table.py renders the information used in Table 1 of the Report
+- Model.py defines, compiles, trains, tests and evaluates the model
+- Preprocessing.py bridges the gap between the raw data csv files and the train and test data suited for the model
+- word2vec.py is an implementation of the word2vec algorithm and renders E.csv, the word embeddings
