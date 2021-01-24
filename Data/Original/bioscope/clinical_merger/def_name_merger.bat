@@ -1,1 +1,0 @@
-merger.bat clinical_records_anon.xml 2007ChallengeTestDataCodes.xml 2007ChallengeTrainData.xml out.xml

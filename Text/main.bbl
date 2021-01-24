@@ -1,0 +1,661 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Abadi%
+\ \protect \BOthers {.}}{%
+Abadi%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2015}}%
+}]{%
+tensorflow}
+\APACinsertmetastar {%
+tensorflow}%
+\begin{APACrefauthors}%
+Abadi, M.%
+, Agarwal, A.%
+, Barham, P.%
+, Brevdo, E.%
+, Chen, Z.%
+, Citro, C.%
+\BDBL {}Zheng, X.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+\APACrefbtitle {{TensorFlow}: Large-Scale Machine Learning on Heterogeneous
+  Systems.} {{TensorFlow}: Large-scale machine learning on heterogeneous
+  systems.}
+\newblock
+\begin{APACrefURL} \url{https://www.tensorflow.org/} \end{APACrefURL}
+\newblock
+\APACrefnote{Software available from tensorflow.org}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Basile%
+, Johan%
+, Kilian%
+\BCBL {}\ \BBA {} Noortje%
+}{%
+Basile%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2012}}%
+}]{%
+basile2012ugroningen}
+\APACinsertmetastar {%
+basile2012ugroningen}%
+\begin{APACrefauthors}%
+Basile, V.%
+, Johan, B.%
+, Kilian, E.%
+\BCBL {}\ \BBA {} Noortje, V.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Ugroningen: Negation detection with discourse
+  representation structures} {Ugroningen: Negation detection with discourse
+  representation structures}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {First Joint Conference on Lexical and Computational
+  Semantics (* SEM)} {First joint conference on lexical and computational
+  semantics (* sem)}\ (\BPGS\ 301--309).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Fancellu%
+, Lopez%
+\BCBL {}\ \BBA {} Webber%
+}{%
+Fancellu%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+}]{%
+fancellu2016neural}
+\APACinsertmetastar {%
+fancellu2016neural}%
+\begin{APACrefauthors}%
+Fancellu, F.%
+, Lopez, A.%
+\BCBL {}\ \BBA {} Webber, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Neural networks for negation scope detection} {Neural
+  networks for negation scope detection}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the 54th annual meeting of the
+  Association for Computational Linguistics (volume 1: long papers)}
+  {Proceedings of the 54th annual meeting of the association for computational
+  linguistics (volume 1: long papers)}\ (\BPGS\ 495--504).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Fancellu%
+, Lopez%
+, Webber%
+\BCBL {}\ \BBA {} He%
+}{%
+Fancellu%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+fancellu2017detecting}
+\APACinsertmetastar {%
+fancellu2017detecting}%
+\begin{APACrefauthors}%
+Fancellu, F.%
+, Lopez, A.%
+, Webber, B.%
+\BCBL {}\ \BBA {} He, H.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Detecting negation scope is easy, except when it
+  isn’t} {Detecting negation scope is easy, except when it isn’t}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the 15th Conference of the European
+  Chapter of the Association for Computational Linguistics: Volume 2, Short
+  Papers} {Proceedings of the 15th conference of the european chapter of the
+  association for computational linguistics: Volume 2, short papers}\ (\BPGS\
+  58--63).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Fei%
+, Ren%
+\BCBL {}\ \BBA {} Ji%
+}{%
+Fei%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2020}}%
+}]{%
+fei2020negation}
+\APACinsertmetastar {%
+fei2020negation}%
+\begin{APACrefauthors}%
+Fei, H.%
+, Ren, Y.%
+\BCBL {}\ \BBA {} Ji, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Negation and speculation scope detection using recursive
+  neural conditional random fields} {Negation and speculation scope detection
+  using recursive neural conditional random fields}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Neurocomputing}{374}{}{22--29}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Hochreiter%
+\ \BBA {} Schmidhuber%
+}{%
+Hochreiter%
+\ \BBA {} Schmidhuber%
+}{%
+{\protect \APACyear {1997}}%
+}]{%
+hochreiter}
+\APACinsertmetastar {%
+hochreiter}%
+\begin{APACrefauthors}%
+Hochreiter, S.%
+\BCBT {}\ \BBA {} Schmidhuber, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1997}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Long short-term memory} {Long short-term memory}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Neural computation}{9}{8}{1735--1780}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Mikolov%
+, Corrado%
+, Chen%
+\BCBL {}\ \BBA {} Dean%
+}{%
+Mikolov%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+word2vec}
+\APACinsertmetastar {%
+word2vec}%
+\begin{APACrefauthors}%
+Mikolov, T.%
+, Corrado, G.%
+, Chen, K.%
+\BCBL {}\ \BBA {} Dean, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{01}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Efficient Estimation of Word Representations in Vector
+  Space} {Efficient estimation of word representations in vector space}.{\BBCQ}
+\newblock
+\BIn{} (\BPG~1-12).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Morante%
+\ \BBA {} Blanco%
+}{%
+Morante%
+\ \BBA {} Blanco%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+SEM-shared-task}
+\APACinsertmetastar {%
+SEM-shared-task}%
+\begin{APACrefauthors}%
+Morante, R.%
+\BCBT {}\ \BBA {} Blanco, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {*SEM 2012 Shared Task: Resolving the Scope and Focus of
+  Negation} {*sem 2012 shared task: Resolving the scope and focus of
+  negation}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the First Joint Conference on Lexical and
+  Computational Semantics - Volume 1: Proceedings of the Main Conference and
+  the Shared Task, and Volume 2: Proceedings of the Sixth International
+  Workshop on Semantic Evaluation} {Proceedings of the first joint conference
+  on lexical and computational semantics - volume 1: Proceedings of the main
+  conference and the shared task, and volume 2: Proceedings of the sixth
+  international workshop on semantic evaluation}\ (\BPG~265–274).
+\newblock
+\APACaddressPublisher{USA}{Association for Computational Linguistics}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Morante%
+\ \BBA {} Sporleder%
+}{%
+Morante%
+\ \BBA {} Sporleder%
+}{%
+{\protect \APACyear {2012}}%
+}]{%
+modality-and-negation}
+\APACinsertmetastar {%
+modality-and-negation}%
+\begin{APACrefauthors}%
+Morante, R.%
+\BCBT {}\ \BBA {} Sporleder, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2012}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Modality and Negation: An Introduction to the Special
+  Issue} {Modality and negation: An introduction to the special issue}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Computational Linguistics}{38}{2}{223-260}.
+\newblock
+\begin{APACrefDOI} \doi{10.1162/COLI\_a\_00095} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{\O}vrelid%
+, Velldal%
+\BCBL {}\ \BBA {} Oepen%
+}{%
+{\O}vrelid%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2010}}%
+}]{%
+ovrelid-2010}
+\APACinsertmetastar {%
+ovrelid-2010}%
+\begin{APACrefauthors}%
+{\O}vrelid, L.%
+, Velldal, E.%
+\BCBL {}\ \BBA {} Oepen, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{{\APACmonth{08}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Syntactic Scope Resolution in Uncertainty Analysis}
+  {Syntactic scope resolution in uncertainty analysis}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the 23rd International Conference on
+  Computational Linguistics (Coling 2010)} {Proceedings of the 23rd
+  international conference on computational linguistics (coling 2010)}\ (\BPGS\
+  1379--1387).
+\newblock
+\APACaddressPublisher{Beijing, China}{Coling 2010 Organizing Committee}.
+\newblock
+\begin{APACrefURL} \url{https://www.aclweb.org/anthology/C10-1155}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{\"O}zg{\"u}r%
+\ \BBA {} Radev%
+}{%
+{\"O}zg{\"u}r%
+\ \BBA {} Radev%
+}{%
+{\protect \APACyear {2009}}%
+}]{%
+ozgur-radev-2009-detecting}
+\APACinsertmetastar {%
+ozgur-radev-2009-detecting}%
+\begin{APACrefauthors}%
+{\"O}zg{\"u}r, A.%
+\BCBT {}\ \BBA {} Radev, D\BPBI R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2009}{{\APACmonth{08}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Detecting Speculations and their Scopes in Scientific
+  Text} {Detecting speculations and their scopes in scientific text}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the 2009 Conference on Empirical Methods
+  in Natural Language Processing} {Proceedings of the 2009 conference on
+  empirical methods in natural language processing}\ (\BPGS\ 1398--1407).
+\newblock
+\APACaddressPublisher{Singapore}{Association for Computational Linguistics}.
+\newblock
+\begin{APACrefURL} \url{https://www.aclweb.org/anthology/D09-1145}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Peters%
+\ \protect \BOthers {.}}{%
+Peters%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2018}}%
+}]{%
+ELMo}
+\APACinsertmetastar {%
+ELMo}%
+\begin{APACrefauthors}%
+Peters, M.%
+, Neumann, M.%
+, Iyyer, M.%
+, Gardner, M.%
+, Clark, C.%
+, Lee, K.%
+\BCBL {}\ \BBA {} Zettlemoyer, L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{{\APACmonth{06}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Deep Contextualized Word Representations} {Deep
+  contextualized word representations}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the 2018 Conference of the North
+  {A}merican Chapter of the Association for Computational Linguistics: Human
+  Language Technologies, Volume 1 (Long Papers)} {Proceedings of the 2018
+  conference of the north {A}merican chapter of the association for
+  computational linguistics: Human language technologies, volume 1 (long
+  papers)}\ (\BPGS\ 2227--2237).
+\newblock
+\APACaddressPublisher{New Orleans, Louisiana}{Association for Computational
+  Linguistics}.
+\newblock
+\begin{APACrefURL} \url{https://www.aclweb.org/anthology/N18-1202}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.18653/v1/N18-1202} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Qian%
+\ \protect \BOthers {.}}{%
+Qian%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+{\protect \APACexlab {{\protect \BCnt {1}}}}}]{%
+qian-2016}
+\APACinsertmetastar {%
+qian-2016}%
+\begin{APACrefauthors}%
+Qian, Z.%
+, Li, P.%
+, Zhu, Q.%
+, Zhou, G.%
+, Luo, Z.%
+\BCBL {}\ \BBA {} Luo, W.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016{\protect \BCnt {1}}}{{\APACmonth{11}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Speculation and Negation Scope Detection via
+  Convolutional Neural Networks} {Speculation and negation scope detection via
+  convolutional neural networks}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the 2016 Conference on Empirical Methods
+  in Natural Language Processing} {Proceedings of the 2016 conference on
+  empirical methods in natural language processing}\ (\BPGS\ 815--825).
+\newblock
+\APACaddressPublisher{Austin, Texas}{Association for Computational
+  Linguistics}.
+\newblock
+\begin{APACrefURL} \url{https://www.aclweb.org/anthology/D16-1078}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.18653/v1/D16-1078} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Qian%
+\ \protect \BOthers {.}}{%
+Qian%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2016}}%
+{\protect \APACexlab {{\protect \BCnt {2}}}}}]{%
+qian-etal-2016-speculation}
+\APACinsertmetastar {%
+qian-etal-2016-speculation}%
+\begin{APACrefauthors}%
+Qian, Z.%
+, Li, P.%
+, Zhu, Q.%
+, Zhou, G.%
+, Luo, Z.%
+\BCBL {}\ \BBA {} Luo, W.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016{\protect \BCnt {2}}}{{\APACmonth{11}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Speculation and Negation Scope Detection via
+  Convolutional Neural Networks} {Speculation and negation scope detection via
+  convolutional neural networks}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the 2016 Conference on Empirical Methods
+  in Natural Language Processing} {Proceedings of the 2016 conference on
+  empirical methods in natural language processing}\ (\BPGS\ 815--825).
+\newblock
+\APACaddressPublisher{Austin, Texas}{Association for Computational
+  Linguistics}.
+\newblock
+\begin{APACrefURL} \url{https://www.aclweb.org/anthology/D16-1078}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.18653/v1/D16-1078} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Sergeeva%
+, Zhu%
+, Prinsen%
+\BCBL {}\ \BBA {} Tahmasebi%
+}{%
+Sergeeva%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2019}}%
+}]{%
+sergeeva2019}
+\APACinsertmetastar {%
+sergeeva2019}%
+\begin{APACrefauthors}%
+Sergeeva, E.%
+, Zhu, H.%
+, Prinsen, P.%
+\BCBL {}\ \BBA {} Tahmasebi, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Negation Scope Detection in Clinical Notes and
+  Scientific Abstracts: A Feature-enriched LSTM-based Approach} {Negation scope
+  detection in clinical notes and scientific abstracts: A feature-enriched
+  lstm-based approach}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{AMIA Joint Summits on Translational Science
+  proceedings. AMIA Joint Summits on Translational Science}{2019}{}{212—221}.
+\newblock
+\begin{APACrefURL} \url{https://europepmc.org/articles/PMC6568093}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Tang%
+, Wang%
+, Wang%
+, Yuan%
+\BCBL {}\ \BBA {} Fan%
+}{%
+Tang%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2010}}%
+}]{%
+tang-etal-2010-cascade}
+\APACinsertmetastar {%
+tang-etal-2010-cascade}%
+\begin{APACrefauthors}%
+Tang, B.%
+, Wang, X.%
+, Wang, X.%
+, Yuan, B.%
+\BCBL {}\ \BBA {} Fan, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{{\APACmonth{07}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A Cascade Method for Detecting Hedges and their Scope in
+  Natural Language Text} {A cascade method for detecting hedges and their scope
+  in natural language text}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the Fourteenth Conference on
+  Computational Natural Language Learning {--} Shared Task} {Proceedings of the
+  fourteenth conference on computational natural language learning {--} shared
+  task}\ (\BPGS\ 13--17).
+\newblock
+\APACaddressPublisher{Uppsala, Sweden}{Association for Computational
+  Linguistics}.
+\newblock
+\begin{APACrefURL} \url{https://www.aclweb.org/anthology/W10-3002}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Tottie%
+}{%
+Tottie%
+}{%
+{\protect \APACyear {1991}}%
+}]{%
+tottie}
+\APACinsertmetastar {%
+tottie}%
+\begin{APACrefauthors}%
+Tottie, G.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{1991}.
+\newblock
+\APACrefbtitle {Negation in English speech and writing: A study in variation}
+  {Negation in english speech and writing: A study in variation}\ (\BVOL~4).
+\newblock
+\APACaddressPublisher{}{Academic Pr}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Van~Rossum%
+\ \BBA {} Drake%
+}{%
+Van~Rossum%
+\ \BBA {} Drake%
+}{%
+{\protect \APACyear {2009}}%
+}]{%
+python}
+\APACinsertmetastar {%
+python}%
+\begin{APACrefauthors}%
+Van~Rossum, G.%
+\BCBT {}\ \BBA {} Drake, F\BPBI L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2009}.
+\newblock
+\APACrefbtitle {Python 3 Reference Manual} {Python 3 reference manual}.
+\newblock
+\APACaddressPublisher{Scotts Valley, CA}{CreateSpace}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Vincze%
+, Szarvas%
+, Farkas%
+, Móra%
+\BCBL {}\ \BBA {} Csirik%
+}{%
+Vincze%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2008}}%
+}]{%
+bioscope}
+\APACinsertmetastar {%
+bioscope}%
+\begin{APACrefauthors}%
+Vincze, V.%
+, Szarvas, G.%
+, Farkas, R.%
+, Móra, G.%
+\BCBL {}\ \BBA {} Csirik, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2008}{{\APACmonth{11}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The {BioScope} corpus: biomedical texts annotated for
+  uncertainty, negation and their scopes} {The {BioScope} corpus: biomedical
+  texts annotated for uncertainty, negation and their scopes}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{BMC Bioinformatics}{9}{11}{S9}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.1186/1471-2105-9-S11-S9}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1186/1471-2105-9-S11-S9} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Zou%
+, Zhou%
+\BCBL {}\ \BBA {} Zhu%
+}{%
+Zou%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2013}}%
+}]{%
+zou-etal-2013-tree}
+\APACinsertmetastar {%
+zou-etal-2013-tree}%
+\begin{APACrefauthors}%
+Zou, B.%
+, Zhou, G.%
+\BCBL {}\ \BBA {} Zhu, Q.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2013}{{\APACmonth{10}}}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Tree Kernel-based Negation and Speculation Scope
+  Detection with Structured Syntactic Parse Features} {Tree kernel-based
+  negation and speculation scope detection with structured syntactic parse
+  features}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Proceedings of the 2013 Conference on Empirical Methods
+  in Natural Language Processing} {Proceedings of the 2013 conference on
+  empirical methods in natural language processing}\ (\BPGS\ 968--976).
+\newblock
+\APACaddressPublisher{Seattle, Washington, USA}{Association for Computational
+  Linguistics}.
+\newblock
+\begin{APACrefURL} \url{https://www.aclweb.org/anthology/D13-1099}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

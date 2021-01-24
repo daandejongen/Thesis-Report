@@ -1,1 +1,0 @@
-java -jar ScopeMerger.jar %1 %2 %3 %4
