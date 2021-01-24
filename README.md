@@ -8,7 +8,7 @@ The Thesis-Report repository contains two folders: *Text* and *Data and code*.
 
 ## Text
 - img folder:
-	* `Plaatjesmaker.ppt` and `Plaatjesmaker2.ppt` were used to create model.png, model2.png and prediction types.png
+	* `Plaatjesmaker.ppt` and `Plaatjesmaker2.ppt` were used to create `model.png`, `model2.png` and `prediction types.png`
 	* `model.png` is outdated
 	* `model2.png` was used in the final Report (by `main.tex` in the text folder)
 	* `prediction types.png` was used in the final Report (by `main.tex` in the text folder)
